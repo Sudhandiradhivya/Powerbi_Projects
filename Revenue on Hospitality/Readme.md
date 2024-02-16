@@ -43,5 +43,6 @@ Some screenshots about my project
 
 ![HA-1](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/d9d2d18a-6914-49a7-9271-0e8b2b1260a6)
 
-![HA-2](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/484e0596-e2ac-4520-aa1b-deabdd56570f)
+
+ ![HA-2](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/484e0596-e2ac-4520-aa1b-deabdd56570f)
 
