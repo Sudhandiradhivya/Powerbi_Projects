@@ -57,3 +57,4 @@ Data-driven Insights: Gain actionable insights into customer demographics and pu
 
 ![customer report](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/b18b4092-fb01-41c2-b546-7d5edc2cf832)
 
+
