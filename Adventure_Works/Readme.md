@@ -12,6 +12,8 @@ The project scope was to build a complete sales reporting solution for Adventure
 
 • Product Report
 
+• Customer Report
+
 ## Executive Summary
 
 ### This page is presented with:
