@@ -1,4 +1,4 @@
-![Screenshot (311)](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/bf6bb95d-ca33-443e-b57d-37ee881d1f63)# AtliQ Grands Hospitality Analysis - PowerBI - Data Analysis and Visualization
+# AtliQ Grands Hospitality Analysis - PowerBI - Data Analysis and Visualization
 
 ![Screenshot of Hotel for reference purpose only](https://www.luxuryhotelawards.com/wp-content/uploads/sites/8/2023/03/Thanes-Piamnamai-251-scaled.jpg)
 
@@ -45,4 +45,3 @@ Some screenshots about my project
 
 ![HA-2](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/484e0596-e2ac-4520-aa1b-deabdd56570f)
 
-![HA-3](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/e50e7aba-83d4-4bb5-87bc-30e9f2dc488d)
