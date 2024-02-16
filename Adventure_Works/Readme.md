@@ -25,8 +25,7 @@ Product Analysis: Identify most ordered and returned product types.
 
 Purpose: Offer actionable insights for strategic decision-making and business optimization.
 
-![Screenshot (320)](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/b07be035-911c-414d-b616-82dfc78e8988)
-
+![Exec report](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/10a028cf-6732-4f3a-b17f-c93201544ef5)
 
 ## Geographical Report
 
@@ -34,7 +33,7 @@ The Geographical Report presents a robust analysis focusing on continents, namel
 
 Purpose: Optimize strategies and resource allocation based on regional performance.
 
-![Screenshot (321)](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/f9c8a842-3bf5-4a43-ad18-0ed3689695d3)
+![Geographical](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/5e149ace-683e-4fe9-881e-cf330516b5bb)
 
 
 ## Product Report
@@ -45,8 +44,8 @@ Return Trend Analysis: Examine return patterns based on product metrics.
 Purpose:
 Enhance strategic decision-making by evaluating product performance against targets, optimizing profit margins, and identifying areas for return rate improvement.
 
+![product ](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/45036fdc-e75b-49ad-95be-0701f3021bb9)
 
-![Screenshot (322)](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/5604f88e-f16a-4c7e-ad56-a70ba8606227)
 
 ## Customer Details Report
 Weekly Customer Analysis: Explore customer behavior on a weekly basis, including orders and revenue.
@@ -54,4 +53,5 @@ Donut Chart Visualization: Dynamically showcase order distribution based on inco
 
 Data-driven Insights: Gain actionable insights into customer demographics and purchasing patterns.
 
-![Uploading Screenshot (323).png…]()
+![customer report](https://github.com/Sudhandiradhivya/Powerbi_Projects/assets/132898988/b18b4092-fb01-41c2-b546-7d5edc2cf832)
+
