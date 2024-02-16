@@ -1,5 +1,6 @@
 # Maven-Market
 
+![1674270403634](https://github.com/Bishalg27/Maven-Market/assets/107564589/d0c95c6b-589c-47a0-86c1-f763cdc5c2fe)
 
 
 
@@ -59,60 +60,10 @@ This report gives an in-depth analysis of how well Maven Market is performing. T
 - Surprisingly, customers with yearly income between **30k - 50K** help maven market drive more sales revenue and profit in comparison to customers in the earning range of **100k**  and above.
 
 
-## Challenges Faced 
-
-``` Creating  Measures``` 
-
-Creating the measures that is essential for the visualization was crucial and the most challenging problem I have faced while building this project.To make sure building the essential measure in order to make the visualization more in depth and help the managers to find out the key findings easily.
-
-``` Building Visualizations`` 
-
-Building the actual needed visualization from the scratch was challenging for me, as I have to decide which graph to choose for which visualization.
-
-
-## Learnings
-
-``Data Quality Importance``
-
-The project reinforced the critical importance of data quality. Clean and accurate data is foundational for meaningful analysis and actionable insights.
-
-``Effective Visualizaion`` 
-
-Effective visualization,showing the important and in depth visualization according to the viewers is crucial. It helps to build a dashboard with the things that they need to know.
-
-## Files Information
-
-```Dashboard:``` contains all the sheet of the dashboard.
-
-
-```Measure Dax:``` contains all the measure that required to build this project.
-
-```Performance Note```It shows all the important key findings.
-
-```Relationship``` contains the screenshot of the relationship needed to build.
-
-```Maven Project``` contains the Raw files needed to create this project.
 
 
 
 
-
-## Tech Stack
-
-``Power Query`` Used for Data Cleaning, Processing,Modeling,Data analysis and Dashboard Making.
-
-## Data Source
-
-[Udemy](https://www.udemy.com/share/101raQ3@dsKVfcIww8AgbAf6m_5xwktYmBiKkthXVrPaAIo_xytWKByNxKKxwsNjhbT9Q4AkKQ==/)
-
-
-## License
-
-This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
-
-For questions or feedback, please contact: Vishugoswami27@gmai.com
-
-Enjoy exploring the project! :)
 
 
 
